@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b405417c-0e8e-4b88-b75d-be0a5949d75d" name="Changes" comment="05 - Many Todolists" />
+    <list default="true" id="b405417c-0e8e-4b88-b75d-be0a5949d75d" name="Changes" comment="06 - AddItemForm, EditableSpan" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +52,7 @@
       <workItem from="1644754963361" duration="927000" />
       <workItem from="1644758339505" duration="394000" />
       <workItem from="1644758790000" duration="309000" />
+      <workItem from="1644759146904" duration="264000" />
     </task>
     <task id="LOCAL-00001" summary="01 - components">
       <created>1644660475421</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644759051189</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="06 - AddItemForm, EditableSpan">
+      <created>1644759374511</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644759374511</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +143,7 @@
     <MESSAGE value="05" />
     <MESSAGE value="04" />
     <MESSAGE value="05 - Many Todolists" />
-    <option name="LAST_COMMIT_MESSAGE" value="05 - Many Todolists" />
+    <MESSAGE value="06 - AddItemForm, EditableSpan" />
+    <option name="LAST_COMMIT_MESSAGE" value="06 - AddItemForm, EditableSpan" />
   </component>
 </project>
