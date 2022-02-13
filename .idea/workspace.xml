@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b405417c-0e8e-4b88-b75d-be0a5949d75d" name="Changes" comment="02 - props part 2">
+    <list default="true" id="b405417c-0e8e-4b88-b75d-be0a5949d75d" name="Changes" comment="03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todolist.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todolist.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <workItem from="1644665975698" duration="1291000" />
       <workItem from="1644739790402" duration="2624000" />
       <workItem from="1644743649324" duration="3022000" />
-      <workItem from="1644754963361" duration="541000" />
+      <workItem from="1644754963361" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="01 - components">
       <created>1644660475421</created>
@@ -85,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644743577959</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="03">
+      <created>1644755876921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644755876921</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +110,7 @@
     <MESSAGE value="01 - components part 2" />
     <MESSAGE value="02 - props" />
     <MESSAGE value="02 - props part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="02 - props part 2" />
+    <MESSAGE value="03" />
+    <option name="LAST_COMMIT_MESSAGE" value="03" />
   </component>
 </project>
