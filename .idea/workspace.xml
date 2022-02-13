@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b405417c-0e8e-4b88-b75d-be0a5949d75d" name="Changes" comment="03">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b405417c-0e8e-4b88-b75d-be0a5949d75d" name="Changes" comment="04" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +50,7 @@
       <workItem from="1644739790402" duration="2624000" />
       <workItem from="1644743649324" duration="3022000" />
       <workItem from="1644754963361" duration="927000" />
+      <workItem from="1644758339505" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="01 - components">
       <created>1644660475421</created>
@@ -88,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644755876921</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="05">
+      <created>1644758450458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644758450458</updated>
+    </task>
+    <task id="LOCAL-00007" summary="04">
+      <created>1644758694601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644758694601</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +124,8 @@
     <MESSAGE value="02 - props" />
     <MESSAGE value="02 - props part 2" />
     <MESSAGE value="03" />
-    <option name="LAST_COMMIT_MESSAGE" value="03" />
+    <MESSAGE value="05" />
+    <MESSAGE value="04" />
+    <option name="LAST_COMMIT_MESSAGE" value="04" />
   </component>
 </project>
