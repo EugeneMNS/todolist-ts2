@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b405417c-0e8e-4b88-b75d-be0a5949d75d" name="Changes" comment="08 - reducers + test + tdd" />
+    <list default="true" id="b405417c-0e8e-4b88-b75d-be0a5949d75d" name="Changes" comment="08 - reducers + test + tdd part 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +55,7 @@
       <workItem from="1644759146904" duration="264000" />
       <workItem from="1644759461794" duration="376000" />
       <workItem from="1644759930835" duration="158000" />
+      <workItem from="1644760141523" duration="199000" />
     </task>
     <task id="LOCAL-00001" summary="01 - components">
       <created>1644660475421</created>
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644760048282</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="08 - reducers + test + tdd part 2">
+      <created>1644760316724</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1644760316724</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +170,7 @@
     <MESSAGE value="06 - AddItemForm, EditableSpan" />
     <MESSAGE value="07 - material-ui" />
     <MESSAGE value="08 - reducers + test + tdd" />
-    <option name="LAST_COMMIT_MESSAGE" value="08 - reducers + test + tdd" />
+    <MESSAGE value="08 - reducers + test + tdd part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="08 - reducers + test + tdd part 2" />
   </component>
 </project>
